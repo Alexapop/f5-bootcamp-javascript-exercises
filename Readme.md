@@ -44,3 +44,12 @@ Escribe un programa que imprima los números del 1 al 100, aplicando los siguien
 ## 📦 Entregables
 
 * Enlace al repositorio de GitHub
+
+Structure project: 
+── README.md (General index)
+├── .gitignore
+├── 01-fizzbuzz-kata/
+│   ├── package.json
+│   ├── README.md
+│   ├── fizzbuzz.js
+│   └── fizzbuzz.test.js
