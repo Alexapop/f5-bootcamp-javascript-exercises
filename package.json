@@ -1,0 +1,25 @@
+{
+  "name": "cs-package-manager",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "giacoF5",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "sass": "sass ./src/sass/styles.scss ./src/css/styles.css",
+    "sass-w": "sass --watch ./src/sass/styles.scss ./src/css/styles.css",
+    "test": "vitest run",
+    "test-w": "vitest",
+    "test-cover": "vitest run --coverage"
+  },
+  "devDependencies": {
+    "@vitest/coverage-v8": "^4.1.7",
+    "sass": "^1.100.0",
+    "vitest": "^4.1.7"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "package-name": "^0.1.0"
+  }
+}
