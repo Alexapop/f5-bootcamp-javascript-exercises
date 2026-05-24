@@ -1,5 +1,5 @@
 import { describe, expect, test } from 'vitest';
-import { checkNumber } from '../src/js/fizzbuzz.js';
+import { checkNumber } from '../kata-fizzbuzz-ex\fizzbuzz.js';
 
 describe('Fizzbuzz', () => {
     
