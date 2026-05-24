@@ -7,7 +7,7 @@
 **Each exercise has its own folder inside this repository**
 - Inside each folder you will find:
 
-  -`src/` → source code (HTML, CSS/SASS, JS)
+  - `src/` → source code (HTML, CSS/SASS, JS)
   - `tests/` → automated tests
   - `README.md` → explanation of the exercise
 
