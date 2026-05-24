@@ -58,5 +58,6 @@
 
 ## 📦 Entregables
 
-* Enlace al repositorio de GitHub
-* Captura de pantalla con las pruebas en Visual Studio
+-[Enlace al repositorio de GitHub](https://github.com/Alexapop/f5-bootcamp-javascript-exercises)
+ -[Captura de pantalla con las pruebas en Visual Studio](img/testing-VS.jpg)
+ 
