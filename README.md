@@ -13,4 +13,4 @@
 
 ## List of Exercises
 
-- [Kata FizzBuzz](https://github.com/Alexapop/F5bootcamp-ejercicios-JavaScript/tree/main/kata-fizzbuzz-ex)
+- [Kata FizzBuzz](https://github.com/Alexapop/f5-bootcamp-javascript-exercises/tree/main/src/fizzbuzzx)

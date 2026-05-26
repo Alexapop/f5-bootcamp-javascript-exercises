@@ -49,12 +49,13 @@
 ├── 01-fizzbuzz-kata/
 │ ├── fizzbuzz.js
 │ └── fizzbuzz.test.js
+  ├── README.md
 
-├── README.md
 ├── .gitignore
 ├── package.json
 ├── package-lock.json
 
 ## 📦 Entregables
 
--[Enlace al repositorio de GitHub](https://github.com/Alexapop/f5-bootcamp-javascript-exercises) -[Captura de pantalla con las pruebas en Visual Studio](img/testing-VS.jpg)
+-[Enlace al repositorio de GitHub](https://github.com/Alexapop/f5-bootcamp-javascript-exercises/tree/main/src/fizzbuzz)
+-[Captura de pantalla con las pruebas en Visual Studio](img/kata-fizzbuzz/testing-VS.jpg)
