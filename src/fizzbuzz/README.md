@@ -58,4 +58,4 @@
 ## 📦 Entregables
 
 -[Enlace al repositorio de GitHub](https://github.com/Alexapop/f5-bootcamp-javascript-exercises/tree/main/src/fizzbuzz)
--[Captura de pantalla con las pruebas en Visual Studio](img/kata-fizzbuzz/testing-VS.jpg)
+-[Captura de pantalla con las pruebas en Visual Studio](../../img/kata-fizzbuzz/testing-VS.jpg)
