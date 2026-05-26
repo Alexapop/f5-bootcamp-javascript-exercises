@@ -1,5 +1,5 @@
 import { describe, test, expect } from "vitest"
-import { fizzBuzz } from "../src/js/fizzbuzz"
+import { fizzBuzz } from "./src/fizzbuzz/fizzbuzz.js"
 
 describe('fizzBuzz', () => {
     // Comprobar si el dato no es un número
