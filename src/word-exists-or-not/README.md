@@ -28,15 +28,32 @@ No importa si son mayúsculas o minúsculas: "eNglisH" también se considera cor
 
 Después de investigar, decidí que el método adecuado para resolver el ejercicio sería el método `RegExp.prototype.test()`. Este nos ayudará a comprobar si nuestro patrón "English" existe en la cadena de texto y nos devolverá `true` si lo encuentra y `false` en caso contrario.
 
-Para definir el patrón exacto voy a usar el flag `i` para hacerlo "case-insensitive".
+Para hacerlo "case-insensitive" voy a usar el flag `i`.
 
-## Cómo ejecutar los tests
 
-1. Instalar dependencias: `npm install`
-2. Ejecutar pruebas: `npx vitest`
+*Estructura del proyecto**
+
+```text
+f5-bootcamp-javascript-exercises/
+|-- img/
+|   `-- word-exist.or-not/
+|       `-- vitest.jpg
+|-- src/
+|   `-- word-exist.or-not/
+|       |-- README.md
+|       |-- word-exists.js
+|       `
+|-- tests/
+|   `-- word-exists-or-not/
+|       |-- word-exists.test.js
+|       `
+|-- README.md
+|-- package-lock.json
+`-- package.json
+```
 
 ## Entregables
 
-- Repositorio de GitHub
-- README reflejado el algoritmo que he seguido
-- Un test con Vitest
+- [Repositorio de GitHub](https://github.com/Alexapop/f5-bootcamp-javascript-exercises)
+- ![Vitest](../../img/word-exists-or-not/vitest.jpg)
+

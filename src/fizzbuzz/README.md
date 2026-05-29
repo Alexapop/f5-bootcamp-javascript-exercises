@@ -46,16 +46,26 @@
 
 **Estructura del proyecto**
 
-├── 01-fizzbuzz-kata/
-│ ├── fizzbuzz.js
-│ └── fizzbuzz.test.js
-  ├── README.md
-
-├── .gitignore
-├── package.json
-├── package-lock.json
+```text
+f5-bootcamp-javascript-exercises/
+|-- img/
+|   `-- kata-fizzbuzz/
+|       `-- testing-VS.jpg
+|-- src/
+|   `-- fizzbuzz/
+|       |-- README.md
+|       |-- fizzbuzz.js
+|       `-- sequence.js
+|-- tests/
+|   `-- fizzbuzz/
+|       |-- fizzbuzz.test.js
+|       `-- sequence-output.txt
+|-- README.md
+|-- package-lock.json
+`-- package.json
+```
 
 ## 📦 Entregables
 
 -[Enlace al repositorio de GitHub](https://github.com/Alexapop/f5-bootcamp-javascript-exercises/tree/main/src/fizzbuzz)
--[Captura de pantalla con las pruebas en Visual Studio](../../img/kata-fizzbuzz/testing-VS.jpg)
+- ![Vitest](../../img/kata-fizzbuzz/vitest.jpg)
