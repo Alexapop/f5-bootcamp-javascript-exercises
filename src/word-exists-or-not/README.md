@@ -8,8 +8,8 @@ No importa si son mayúsculas o minúsculas: "eNglisH" también se considera cor
 
 **Valor de retorno:** Devuelve un valor booleano: `true` si la cadena contiene "English" y `false` en caso contrario.
 
-
 ## Tecnología
+
 - **Lenguaje:** JavaScript
 - **Framework de Pruebas:** Vitest
 - **Entorno de Desarrollo (IDE):** Visual Studio Code
@@ -26,15 +26,17 @@ No importa si son mayúsculas o minúsculas: "eNglisH" también se considera cor
 
 ## Investigación
 
-Después de investigar, decidí que el método adecuado para resolver el ejercicio sería el método `RegExp.prototype.test()`. Este nos ayudará a comprobar si nuestro patrón "English" existe en la cadena de texto y nos devolverá `true` si lo encuentra y `false` en caso contrario. 
+Después de investigar, decidí que el método adecuado para resolver el ejercicio sería el método `RegExp.prototype.test()`. Este nos ayudará a comprobar si nuestro patrón "English" existe en la cadena de texto y nos devolverá `true` si lo encuentra y `false` en caso contrario.
 
 Para definir el patrón exacto voy a usar el flag `i` para hacerlo "case-insensitive".
 
 ## Cómo ejecutar los tests
+
 1. Instalar dependencias: `npm install`
 2. Ejecutar pruebas: `npx vitest`
 
 ## Entregables
+
 - Repositorio de GitHub
 - README reflejado el algoritmo que he seguido
 - Un test con Vitest
