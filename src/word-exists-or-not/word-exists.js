@@ -1,7 +1,7 @@
 
 console.log('connected')
 
-export function WordExists(text) {
+export function wordExists(text) {
 
 
      if (typeof text !== 'string') {
